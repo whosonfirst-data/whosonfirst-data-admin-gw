@@ -41,7 +41,7 @@
         "gn:id":2369929
     },
     "wof:country":"GW",
-    "wof:geomhash":"bb80b8178516fd16d5b9dd356626cf03",
+    "wof:geomhash":"18a5d92a6132ceebbaa810cce7f296ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -15.0,
     12.65
 ],
-  "geometry": {"coordinates":[-15.0,12.65],"type":"Point"}
+  "geometry": {"coordinates":[-15,12.65],"type":"Point"}
 }

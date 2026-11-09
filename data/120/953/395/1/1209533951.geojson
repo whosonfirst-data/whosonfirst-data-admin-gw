@@ -43,7 +43,7 @@
         "gn:id":2374623
     },
     "wof:country":"GW",
-    "wof:geomhash":"bf20078af22b5892f49bcc039f77d985",
+    "wof:geomhash":"812e02386008e9e9f8fadb06d0d32596",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -66,5 +66,5 @@
     -15.03333,
     11.0
 ],
-  "geometry": {"coordinates":[-15.03333,11.0],"type":"Point"}
+  "geometry": {"coordinates":[-15.03333,11],"type":"Point"}
 }
