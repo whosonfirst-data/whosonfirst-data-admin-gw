@@ -1,0 +1,75 @@
+{
+  "id": 9895028227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.65,11.95,-15.65,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-15.65,
+    "gn:population":3193,
+    "iso:country":"GW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2370263: name \"Safim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2370263"
+        },
+        {
+            "citation":"GeoNames populated place 2370263: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2370263"
+        },
+        {
+            "citation":"GeoNames populated place 2370263: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2370263"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758203 (Safim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757,
+        85671535,
+        102191573,
+        1108758203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370263
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"19c573c5c8c1e11cbf1d1b9b85b5ac0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758203,
+            "locality_id":9895028227,
+            "region_id":85671535
+        }
+    ],
+    "wof:id":9895028227,
+    "wof:lastmodified":1795735195,
+    "wof:name":"Safim",
+    "wof:parent_id":1108758203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.65,
+    11.95,
+    -15.65,
+    11.95
+],
+  "geometry": {"coordinates":[-15.65,11.95],"type":"Point"}
+}

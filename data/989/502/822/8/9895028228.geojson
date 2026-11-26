@@ -1,0 +1,75 @@
+{
+  "id": 9895028228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.15427,12.66286,-14.15427,12.66286",
+    "geom:latitude":12.66286,
+    "geom:longitude":-14.15427,
+    "gn:population":2980,
+    "iso:country":"GW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2370751: name \"Pirada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2370751"
+        },
+        {
+            "citation":"GeoNames populated place 2370751: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2370751"
+        },
+        {
+            "citation":"GeoNames populated place 2370751: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2370751"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758235 (Pirada), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757,
+        85671559,
+        102191573,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370751
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"c8d9213b6a455c93d7b018c698857064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":9895028228,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":9895028228,
+    "wof:lastmodified":1795735195,
+    "wof:name":"Pirada",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.15427,
+    12.66286,
+    -14.15427,
+    12.66286
+],
+  "geometry": {"coordinates":[-14.15427,12.66286],"type":"Point"}
+}
