@@ -1,0 +1,75 @@
+{
+  "id": 9895028235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.86119,12.02342,-14.86119,12.02342",
+    "geom:latitude":12.02342,
+    "geom:longitude":-14.86119,
+    "gn:population":7620,
+    "iso:country":"GW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2375181: name \"Bambadinca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2375181"
+        },
+        {
+            "citation":"GeoNames populated place 2375181: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2375181"
+        },
+        {
+            "citation":"GeoNames populated place 2375181: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2375181"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758187 (Bambadinca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757,
+        85671557,
+        102191573,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375181
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"66aa4acf09c8f1d5fbc3e64c5137c6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":9895028235,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":9895028235,
+    "wof:lastmodified":1795735195,
+    "wof:name":"Bambadinca",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.86119,
+    12.02342,
+    -14.86119,
+    12.02342
+],
+  "geometry": {"coordinates":[-14.86119,12.02342],"type":"Point"}
+}
